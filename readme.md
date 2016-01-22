@@ -40,6 +40,11 @@ Promise.resolve('[1,2,3]')
 .then(parse([]))
 .then(sum)
 //=> 6
+
+Promise.resolve(undefined)
+.then(parse([]))
+.then(sum)
+//=> 0
 ```
 
 ## API
