@@ -60,6 +60,11 @@ Promise.resolve(undefined)
 
  - `(*)` JavaScript value corresponding to parsed data.
 
+## Alternatives
+
+ - [parse-json]
+ - [safe-json-parse]
+
 ## Contributing
 
 > SEE: [contributing.md](contributing.md)
@@ -67,3 +72,6 @@ Promise.resolve(undefined)
 ## Licenses
 
 [![GitHub license](https://img.shields.io/github/license/wilmoore/json-parse.js.svg)](https://github.com/wilmoore/json-parse.js/blob/master/license)
+
+[parse-json]: https://www.npmjs.com/package/parse-json
+[safe-json-parse]: https://www.npmjs.com/package/safe-json-parse

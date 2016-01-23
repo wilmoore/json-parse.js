@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to this project will be documented in this file (keepachangelog.com).
 
+## 1.0.3 - 2016-01-22
+### Added
+- Added list of alternative packages.
+
 ## 1.0.2 - 2016-01-21
 ### Changed
 - Updated dependencies.
