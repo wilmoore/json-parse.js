@@ -1,7 +1,7 @@
 {
   "name": "json-parse",
   "description": "Curried function that calls `JSON.parse` on provided input returning either the parsed JSON or the specified default value if the data fails to parse as valid JSON instead of throwing a `SyntaxError`.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "Wil Moore III <wil.moore@wilmoore.com>",
   "bugs": {
     "url": "https://github.com/wilmoore/json-parse.js/issues"
